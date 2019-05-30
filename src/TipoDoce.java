@@ -1,0 +1,3 @@
+public enum TipoDoce {
+    FINO, FESTA, GOURMET, ORNAMENTAL, INICIALIZACAO;
+}
